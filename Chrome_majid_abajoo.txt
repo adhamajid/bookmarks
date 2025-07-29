@@ -26,20 +26,21 @@ https://cartesi.io/
 https://university.alchemy.com/certifications/evm-chain -> belajar web3
 ====================================================================================================================
 ## AI
-https://grok.com/
+https://gamma.app/ -> PPT AI
+https://grok.com/ -> chat AI
 https://www.notta.ai/id/how-to-live-transcribe-google-meet-calls -> Transkripsi Langsung Panggilan Google Meet
 https://www.mage.space/ 
-https://www.perplexity.ai/
+https://www.perplexity.ai/ -> chat AI
 https://uxpilot.ai/a/ui-list
-https://v0.dev/
+https://v0.dev/ -> chat AI
 https://docs.browser-use.com/introduction
 https://www.builder.io/
 https://platform.openai.com/api-keys
 https://speechify.com/
 https://monica.im/
 https://summarizeyou.com/video-25367-belajar-sukses-10-x-lebih-cepat?utm_source=chatgpt.com
-https://bolt.new/
-https://www.kimi.com/
+https://bolt.new/ -> UI framework first when u create an APP 
+https://www.kimi.com/ -> Chat AI
 
 ====================================================================================================================
 

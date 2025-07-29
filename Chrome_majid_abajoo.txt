@@ -1,0 +1,24 @@
+https://certbot.eff.org/ -> ssh http to https
+https://kestra.io/docs/getting-started/quickstart#start-kestra -> open-source untuk automasi workflow dan orkestrasi data
+https://odootune.arkana.co.id/ -> This calculation serves as a general guideline for odoo users
+
+https://tryout.id/kelompok-soal/c9f0f89/toefl -> kumpulan soal TOEFL
+https://anthiago.com/transkrip/ -> AI transkip video/audio to text
+
+https://digitalent.komdigi.go.id/akademi/FGA/pelatihan
+
+https://www.odoo.com/id_ID/page/startwebsite -> odoo duplikasi tampilan website external menjadi website odoo
+https://spilymp.github.io/ibo/ -> icon app odoo
+
+https://www.geoguessr.com/free/start -> ga tahu? game tebak tempat
+
+====================================================================================================================
+## Web 3 
+https://www.cyfrin.io/blog/learn-web3-development-roadmap
+https://web3.career/
+https://www.algoexpert.io/blockchain/product
+https://profiles.cyfrin.io/updraft/login
+
+https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js
+
+https://cartesi.io/

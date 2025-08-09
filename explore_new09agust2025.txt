@@ -1,0 +1,33 @@
+AI Model for n8n (extension Chrome) = https://n8nchat.com/?ref=techinsixty
+
+3d Design Web AI = https://www.dora.run/ai 
+
+Mobile UI design AI = https://appalchemy.ai/
+
+Twitter data scientists = https://moebio.com/
+
+Freelance = https://projects.co.id/
+
+odoo freelance start from 500K - 15 Million/juta = https://fastwork.id/search?q=odoo
+
+free courses = https://www.codedex.io/courses
+
+change your github to diagram = change your domain github.com/your_project into gitdiagram.com/your_project
+
+free netflix = http://catflix.su/home
+
+Asset Animation for your website = https://reactbits.dev/text-animations/blur-text
+
+Visualize Map Asset for 3d/web/mobile = https://topoexport.com/
+
+Visualize Logic coding yours = https://staying.fun/en
+
+Visualize data scientists your history chat of gpt :=: 
+
+Prompt: Please analyse my entire chat history and extract all major conceptual themes discussed. Categorise them into logical groups.
+Then generate a fully standalone HTML file that renders an interactive 3D concept map using Three.js. Each concept should be a colour-coded node (based on its category), and conceptual relationships should be shown as lines connecting the nodes.
+Requirements:
+- Use three.module.js and OrbitControls.js via proper ES Module CDN imports (or give relative paths if using local files).
+- The final output must work when served from a modern HTTPS server (or ideally just locally) without a build step.
+- Make sure all module specifiers are either fully qualified URLs or proper ./ relative paths.
+- Assume I may host the JS files locally, so also include guidance for doing so correctly if needed.

@@ -10,6 +10,8 @@ Freelance = https://projects.co.id/
 
 odoo freelance start from 500K - 15 Million/juta = https://fastwork.id/search?q=odoo
 
+https://www.garudax.com/ = keamanan siber proaktif dan otomatis melalui pencegahan kebocoran data (DLP) dan VAPT cerdas. Tujuannya adalah membangun infrastruktur yang belajar sendiri, bertahan sendiri, dan terus berkembang—tanpa ketergantungan pada manusia dan menetapkan standar baru dalam pertahanan siber.
+
 free courses = https://www.codedex.io/courses
 
 change your github to diagram = change your domain github.com/your_project into gitdiagram.com/your_project
@@ -22,7 +24,8 @@ Visualize Map Asset for 3d/web/mobile = https://topoexport.com/
 
 Visualize Logic coding yours = https://staying.fun/en
 
-Visualize data scientists your history chat of gpt :=: 
+Visualize data scientists your history chat of gpt :=: (dibawah) ||
+                                                                 vv
 
 Prompt: Please analyse my entire chat history and extract all major conceptual themes discussed. Categorise them into logical groups.
 Then generate a fully standalone HTML file that renders an interactive 3D concept map using Three.js. Each concept should be a colour-coded node (based on its category), and conceptual relationships should be shown as lines connecting the nodes.
